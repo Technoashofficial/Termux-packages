@@ -8,3 +8,4 @@ pkg install perl
 pkg install ruby
 apt update
 apt upgrade
+wget https://Auxilus.github.io/metasploit.sh
